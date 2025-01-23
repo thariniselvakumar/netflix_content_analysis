@@ -14,7 +14,7 @@ List and analyze content based on release years, countries, and durations.
 Explore and categorize content based on specific criteria and keywords.
 
 ## Queries for 15 Business Problems 
-Link -://github.com/thariniselvakumar/netflix_content_analysis/blob/main/netflixproject.sql
+Link- https://github.com/thariniselvakumar/netflix_content_analysis/blob/main/netflixproject.sql
 
 ## Findings 
 **Content Distribution**: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
